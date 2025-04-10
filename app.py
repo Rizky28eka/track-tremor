@@ -762,7 +762,7 @@ elif st.session_state['page'] == 'about':
     
     ### Development Team
     
-    TremorTrack 2.0 is developed by a Peerzada Mubashir Hassan
+    TremorTrack 2.0 is developed by a Rizky Eka Haryadi
     ### Disclaimer
     
     This tool is provided for research and educational purposes only. Predictions should not be used as the sole basis for emergency response decisions without verification from official monitoring agencies.

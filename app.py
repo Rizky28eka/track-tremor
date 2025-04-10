@@ -85,7 +85,7 @@ with col1:
     )
 with col2:
     st.title("TremorTrack 2.0")
-    st.markdown("<p style='color: #AAAAAA;'>Earthquake Magnitude Predictor by Peerzada Mubashir</p>", unsafe_allow_html=True)
+    st.markdown("<p style='color: #AAAAAA;'>Earthquake Magnitude Predictor by Rizky Eka Haryadi</p>", unsafe_allow_html=True)
 
 # Sidebar navigation
 with st.sidebar:
@@ -112,7 +112,7 @@ with st.sidebar:
     This app uses a pre-trained Random Forest model to predict earthquake magnitudes and visualize related data.
 
     **Data Sources:**
-    - All the soucre files can be found: github.com/Muhaib-peerzad      
+    - All the soucre files can be found: github.com/rizky28eka      
     - Prediction model trained on USGS global earthquake data
     - Visualizations use 50 ShakeMap datasets from USGS
     """)

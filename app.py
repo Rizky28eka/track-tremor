@@ -769,7 +769,7 @@ elif st.session_state['page'] == 'about':
     
     ### Contact
     
-    For questions, feature requests, or to report issues, please contact us at peermuhaib@gmail.com
+    For questions, feature requests, or to report issues, please contact us at r28eka@gmail.com
     """)
     
     # Add version info and acknowledgments
